@@ -14,6 +14,7 @@ This project proposes a “college notes app” to keep track of the college not
 
 
 
+![Untitled design](https://user-images.githubusercontent.com/85005865/148757380-db86bef0-7c01-4f0f-81d2-6c04c6c1c984.png)
 
 
 
